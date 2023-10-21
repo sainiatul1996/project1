@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Travel India</title>
+</head>
+<body>
+    <header>
+        <h1>Travel India</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="https://www.olacabs.com" target="_blank">Ola</a></li>
+            <li><a href="https://www.uber.com" target="_blank">Uber</a></li>
+            <li><a href="https://www.oyorooms.com" target="_blank">OYO Rooms</a></li>
+        </ul>
+    </nav>
+    <main>
+        <!-- Your website content goes here -->
+    </main>
+    <footer>
+        <!-- Footer content goes here -->
+    </footer>
+</body>
